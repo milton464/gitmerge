@@ -5,4 +5,9 @@ public class Main {
 		System.out.println("Main class");
 		//make chnages
 	}
+	
+	private String addString() {
+		
+		return null;
+	}
 }
