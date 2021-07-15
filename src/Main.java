@@ -12,10 +12,4 @@ public class Main {
 		System.out.println(name+name2);
 		return null;
 	}
-	
-	public String name() {
-		return "name";
-		
-		
-	}
 }
