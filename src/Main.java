@@ -7,7 +7,9 @@ public class Main {
 	}
 	
 	private String addString() {
-		
+		String name  = "Name";
+		String name2 = "name2";
+		System.out.println(name+name2);
 		return null;
 	}
 }
