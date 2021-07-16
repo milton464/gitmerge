@@ -10,6 +10,7 @@ public class Main {
 		String name  = "Name";
 		String name2 = "name2";
 		System.out.println(name+name2);
+		String num = "num1";
 		return null;
 	}
 	
