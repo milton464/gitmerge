@@ -9,6 +9,7 @@ public class Main {
 	private String addString() {
 		String data1  = "Name";
 		String data2 = "name2";
+		String str ="String";
 		System.out.println(data1+data2);
 		String num = "num1";
 		return null;
