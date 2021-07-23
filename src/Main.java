@@ -7,10 +7,13 @@ public class Main {
 	}
 	
 	private String addString() {
+
  
 		String name1  = "Name";
 		String name2 = "name2";
 		System.out.println(name1+name2);
+
+
 
 		String num = "num1";
 		return null;
